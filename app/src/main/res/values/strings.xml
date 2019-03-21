@@ -1,0 +1,5 @@
+<resources>
+<string name="app_name">NaPlayer</string>
+    <string name="video_url_hint">input video url</string>
+    <string name="play">Play</string>
+</resources>
